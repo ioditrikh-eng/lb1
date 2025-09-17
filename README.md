@@ -37,12 +37,12 @@ C# console application for managing a collection of magical creatures with vario
 4. Run without debugging (Ctrl + F5)
 
 ## Technologies
-- .NET 6.0
+- .NET 8.0
 - C# 10.0
 - Console Application
 
 ## Author
-[Ваше ім'я]
+Illi Dietrich
 
 ## License
 MIT License
